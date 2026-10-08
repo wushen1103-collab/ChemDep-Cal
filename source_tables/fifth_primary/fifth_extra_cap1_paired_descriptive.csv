@@ -1,0 +1,5 @@
+comparator,meta_minus_control_hits,ci_low,ci_high,positive_targets,negative_targets,exact_signflip_p_two_sided_descriptive,status
+bh_cap1_score_fill,2.322000000000001,1.202500000000001,3.545000000000001,10,0,0.001953125,"post hoc descriptive, not preregistered confirmatory"
+block_by_cap1_score_fill,2.0420000000000007,0.8985000000000003,3.3825000000000003,8,2,0.01171875,"post hoc descriptive, not preregistered confirmatory"
+chemdeprc_scorecap1_score_fill,2.3890000000000016,1.263987500000001,3.6060000000000016,10,0,0.001953125,"post hoc descriptive, not preregistered confirmatory"
+hier_bh_cap1_score_fill,2.0435000000000003,0.8085000000000008,3.4560124999999977,8,2,0.015625,"post hoc descriptive, not preregistered confirmatory"

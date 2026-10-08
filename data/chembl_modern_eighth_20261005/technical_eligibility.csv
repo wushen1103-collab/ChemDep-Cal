@@ -1,0 +1,101 @@
+target_chembl_id,passes_global_quality,eligible,reason
+CHEMBL1822,False,False,global quality threshold
+CHEMBL1824,True,True,
+CHEMBL1825,True,True,
+CHEMBL1827,True,True,
+CHEMBL1828,False,False,global quality threshold
+CHEMBL1829,True,True,
+CHEMBL1830,False,False,global quality threshold
+CHEMBL1832,False,False,global quality threshold
+CHEMBL1833,True,True,
+CHEMBL1834,False,False,no nonempty curated panel
+CHEMBL1835,False,False,global quality threshold
+CHEMBL1836,True,True,
+CHEMBL1838,False,False,global quality threshold
+CHEMBL1839,False,False,global quality threshold
+CHEMBL1841,True,True,
+CHEMBL1842,False,False,no nonempty curated panel
+CHEMBL1843,False,False,global quality threshold
+CHEMBL1844,True,True,
+CHEMBL1845,False,False,global quality threshold
+CHEMBL1846,False,False,global quality threshold
+CHEMBL1847,False,False,global quality threshold
+CHEMBL1848,False,False,global quality threshold
+CHEMBL1850,False,False,global quality threshold
+CHEMBL1851,False,False,global quality threshold
+CHEMBL1853,False,False,global quality threshold
+CHEMBL1854,False,False,global quality threshold
+CHEMBL1855,False,False,global quality threshold
+CHEMBL1856,False,False,global quality threshold
+CHEMBL1859,False,False,global quality threshold
+CHEMBL1860,False,False,global quality threshold
+CHEMBL1861,False,False,global quality threshold
+CHEMBL1862,True,True,
+CHEMBL1864,False,False,global quality threshold
+CHEMBL1865,True,True,
+CHEMBL1866,False,False,global quality threshold
+CHEMBL1867,True,True,
+CHEMBL1868,True,True,
+CHEMBL1869,False,False,global quality threshold
+CHEMBL1870,False,False,global quality threshold
+CHEMBL1871,True,True,
+CHEMBL1873,True,True,
+CHEMBL1874,False,False,no nonempty curated panel
+CHEMBL1875,False,False,global quality threshold
+CHEMBL1876,False,False,no nonempty curated panel
+CHEMBL1878,False,False,global quality threshold
+CHEMBL1879,False,False,global quality threshold
+CHEMBL1881,True,False,test scaffold capacity below 50
+CHEMBL1882,False,False,global quality threshold
+CHEMBL1883,False,False,global quality threshold
+CHEMBL1886,False,False,global quality threshold
+CHEMBL1887,False,False,global quality threshold
+CHEMBL1889,True,True,
+CHEMBL1892,False,False,global quality threshold
+CHEMBL1893,False,False,global quality threshold
+CHEMBL1898,True,True,
+CHEMBL1899,True,True,
+CHEMBL1900,True,False,test scaffold capacity below 50
+CHEMBL1901,False,False,global quality threshold
+CHEMBL1902,True,True,
+CHEMBL1903,False,False,global quality threshold
+CHEMBL1904,True,True,
+CHEMBL1905,False,False,global quality threshold
+CHEMBL1906,True,True,
+CHEMBL1907,True,False,test scaffold capacity below 50
+CHEMBL1908,True,True,
+CHEMBL1910,False,False,global quality threshold
+CHEMBL1911,False,False,global quality threshold
+CHEMBL1912,False,False,no nonempty curated panel
+CHEMBL1913,True,True,
+CHEMBL1914,True,True,
+CHEMBL1915,False,False,global quality threshold
+CHEMBL1916,False,False,global quality threshold
+CHEMBL1917,True,False,test scaffold capacity below 50
+CHEMBL1918,False,False,global quality threshold
+CHEMBL1919,True,False,test scaffold capacity below 50
+CHEMBL1920,False,False,no nonempty curated panel
+CHEMBL1921,False,False,global quality threshold
+CHEMBL1925,False,False,global quality threshold
+CHEMBL1927,False,False,global quality threshold
+CHEMBL1929,True,False,test scaffold capacity below 50
+CHEMBL1930,False,False,global quality threshold
+CHEMBL1934,False,False,global quality threshold
+CHEMBL1935,False,False,global quality threshold
+CHEMBL1936,True,True,
+CHEMBL1937,True,True,
+CHEMBL1940,False,False,global quality threshold
+CHEMBL1941,True,True,
+CHEMBL1942,True,True,
+CHEMBL1944,False,False,global quality threshold
+CHEMBL1945,False,False,global quality threshold
+CHEMBL1946,False,False,global quality threshold
+CHEMBL1947,False,False,global quality threshold
+CHEMBL1949,False,False,global quality threshold
+CHEMBL1950,False,False,global quality threshold
+CHEMBL1951,True,True,
+CHEMBL1952,True,False,test scaffold capacity below 50
+CHEMBL1954,False,False,global quality threshold
+CHEMBL1955,True,True,
+CHEMBL1957,True,True,
+CHEMBL1958,False,False,global quality threshold

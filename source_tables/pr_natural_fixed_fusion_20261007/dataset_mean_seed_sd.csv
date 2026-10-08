@@ -1,0 +1,17 @@
+dataset,method,mean,std
+bace,chemdep_cal,37.8,2.4899799195977455
+bace,fixed_75_25_fusion,39.2,1.9235384061671337
+bace,multi_fp_rf,38.8,1.4832396974191326
+bace,score_cap1,38.8,1.923538406167134
+bbbp,chemdep_cal,46.8,2.1679483388678795
+bbbp,fixed_75_25_fusion,49.4,0.8944271909999167
+bbbp,multi_fp_rf,49.6,0.8944271909999163
+bbbp,score_cap1,49.4,0.547722557505166
+clintox_ct_tox,chemdep_cal,8.8,1.3038404810405297
+clintox_ct_tox,fixed_75_25_fusion,13.6,1.3416407864998738
+clintox_ct_tox,multi_fp_rf,13.8,1.6431676725154982
+clintox_ct_tox,score_cap1,10.8,1.4832396974191324
+hiv,chemdep_cal,26.8,3.8987177379235853
+hiv,fixed_75_25_fusion,29.6,5.770615218501403
+hiv,multi_fp_rf,29.2,4.868264577855235
+hiv,score_cap1,31.0,3.8078865529319543
