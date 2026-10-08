@@ -1,0 +1,13 @@
+dataset,scenario,q,budget_label,best_true_hits_method,best_true_hits,lowest_fdp_method,lowest_fdp,best_chemdeprc_method,best_chemdeprc_true_hits,best_chemdeprc_fdp,chemdeprc_non_dominated_rate
+olivetti_faces_group10,natural,0.7,100,raw_top_b,10.0,chemdeprc_cap1,0.20402380952380952,chemdeprc_soft75,9.44,0.8340740903575292,0.98
+olivetti_faces_group10,natural,0.7,25,raw_top_b,9.52,chemdeprc_cap1,0.20402380952380952,chemdeprc_soft75,8.96,0.6416,0.98
+olivetti_faces_group10,natural,0.7,50,raw_top_b,9.9,chemdeprc_cap1,0.20402380952380952,chemdeprc_soft75,9.44,0.7950229419121869,0.98
+olivetti_faces_group10,visual_cluster_confounder,0.7,100,raw_top_b,10.0,chemdeprc_cap1,0.24785714285714286,chemdeprc_soft75,9.44,0.8385088848158531,0.98
+olivetti_faces_group10,visual_cluster_confounder,0.7,25,raw_top_b,9.48,chemdeprc_cap1,0.24785714285714286,chemdeprc_soft75,8.88,0.6448,0.98
+olivetti_faces_group10,visual_cluster_confounder,0.7,50,raw_top_b,9.88,chemdeprc_cap1,0.24785714285714286,chemdeprc_soft75,9.44,0.7974673863566314,0.98
+sklearn_digits,natural,0.7,100,bh,44.94,chemdeprc_cap1,0.3279746642246642,chemdeprc_soft75,36.7,0.5722169209253888,1.0
+sklearn_digits,natural,0.7,25,bh,24.94,bh,0.0024,chemdeprc_soft75,14.9,0.40399999999999997,0.98
+sklearn_digits,natural,0.7,50,bh,44.24,bh,0.1152,chemdeprc_soft75,25.04,0.49567659574468087,1.0
+sklearn_digits,visual_cluster_confounder,0.7,100,weighted_bh,44.9,chemdeprc_cap1,0.5330423187923188,chemdeprc_soft75,30.5,0.695,1.0
+sklearn_digits,visual_cluster_confounder,0.7,25,bh,24.64,bh,0.0144,chemdeprc_soft75,11.2,0.552,1.0
+sklearn_digits,visual_cluster_confounder,0.7,50,bh,42.94,bh,0.14120000000000002,chemdeprc_soft75,18.38,0.6324000000000001,1.0

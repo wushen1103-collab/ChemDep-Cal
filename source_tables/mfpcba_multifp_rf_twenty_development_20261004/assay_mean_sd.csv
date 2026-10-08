@@ -1,0 +1,17 @@
+task,method,mean,std
+GPCR,multifp_score_rf,39.4,2.302172886644268
+GPCR_2,multifp_score_rf,18.6,0.5477225575051664
+channel_atp,multifp_score_rf,40.8,4.147288270665544
+cysteine_protease,multifp_score_rf,32.2,2.16794833886788
+dna_repair,multifp_score_rf,37.8,2.7748873851023204
+hsf1,multifp_score_rf,27.0,2.0
+methylation,multifp_score_rf,24.6,2.190890230020664
+serine,multifp_score_rf,6.4,1.3416407864998738
+splicing,multifp_score_rf,48.4,0.8944271909999153
+streptokinase,multifp_score_rf,31.0,2.82842712474619
+transcription,multifp_score_rf,37.8,3.6331804249169903
+transcription2,multifp_score_rf,19.6,3.361547262794322
+transcription3,multifp_score_rf,27.0,2.7386127875258306
+transcription_4,multifp_score_rf,49.4,0.8944271909999167
+transcription_5,multifp_score_rf,13.0,2.7386127875258306
+zinc_finger,multifp_score_rf,29.0,1.5811388300841893

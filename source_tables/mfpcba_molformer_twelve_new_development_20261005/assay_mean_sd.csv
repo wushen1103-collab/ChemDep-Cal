@@ -1,0 +1,6 @@
+task,method,mean,std,rf_mean
+AID1224905,frozen_molformer_score_xgb,28.2,1.7888543819998317,29.0
+AID1979,frozen_molformer_score_xgb,43.6,2.073644135332772,44.8
+AID485317,frozen_molformer_score_xgb,43.4,1.3416407864998738,43.4
+AID504582,frozen_molformer_score_xgb,39.4,1.1401754250991372,41.2
+AID651658,frozen_molformer_score_xgb,32.2,4.764451699828638,34.4

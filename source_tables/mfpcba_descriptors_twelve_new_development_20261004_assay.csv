@@ -1,0 +1,11 @@
+task,method,mean,std,rf_mean
+AID1224905,multifp_descriptor_extratrees,28.2,2.8635642126552705,29.0
+AID1224905,multifp_descriptor_rf,29.0,2.23606797749979,29.0
+AID1979,multifp_descriptor_extratrees,43.8,1.7888543819998313,44.8
+AID1979,multifp_descriptor_rf,43.6,1.1401754250991378,44.8
+AID485317,multifp_descriptor_extratrees,43.4,1.1401754250991383,43.4
+AID485317,multifp_descriptor_rf,43.8,1.6431676725154993,43.4
+AID504582,multifp_descriptor_extratrees,40.4,1.6733200530681505,41.2
+AID504582,multifp_descriptor_rf,40.8,1.0954451150103317,41.2
+AID651658,multifp_descriptor_extratrees,35.0,3.937003937005906,34.4
+AID651658,multifp_descriptor_rf,34.6,3.9115214431215892,34.4

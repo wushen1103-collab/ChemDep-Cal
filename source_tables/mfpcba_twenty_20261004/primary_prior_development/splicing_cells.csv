@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+splicing,1,49,46,-3
+splicing,2,47,44,-3
+splicing,3,45,44,-1
+splicing,4,47,46,-1
+splicing,5,48,46,-2

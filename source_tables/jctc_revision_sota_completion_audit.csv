@@ -1,0 +1,16 @@
+criterion,status,evidence
+8-12 external methods,pass,"Direct revision grid contains 7 independent external/non-proposed routes before ChemDep variants: BH, weighted BH, block BH, score_cap1, BH-cap1, block-BY-cap1, and minP-block-BH-cap1. hierarchical-BH-cap1 is retained as a formal cap1 special-case diagnostic rather than an independent competitor; the broader strict public suite contains 12 external methods."
+classic methods >=2,pass,BH and BY/raw/random controls are present in the full benchmark package; BH is included in the direct JCTC grid.
+recent same-task SOTA 4-6,pass,"score_cap1, BH-cap1, leader clustering, MaxMin, MMR, DPP, and weighted BH are included in the strict/public benchmark tables."
+same-mechanism direct competitors 2-4,pass,"Direct revision grid adds block-BY-cap1 and minP-block-BH-cap1 beside weighted BH/block BH; hierarchical-BH-cap1 is retained as a formal ChemDep cap1 special-case diagnostic, not as an independent same-mechanism competitor."
+technical-route grouping,pass,Grouped route table is written to jctc_grouped_baseline_mainstress_q0p7_B50_f0p1_boost4.*.
+2-4 public datasets,pass,"Strict public suite uses HIV, BACE, BBBP, ClinTox; JCTC package also includes LIT-PCBA/DUD-E external score-backbone panels."
+same protocol or split fairness,pass,"All direct competitors consume the same score files, calibration split, test pool, q, budget, blocks, and injected artifact scenarios."
+special scenarios,pass,"Scaffold OOD, cold-start, missing-fingerprint, long-tail, block artifact, block misspecification, and dependency-definition sweeps are represented."
+mean +/- std over at least 5 seeds,pass,Direct revision grid uses 10 targets x 50 repetitions = 500 paired target-replicates per scenario; public strict suite uses 5 seeds.
+original-paper vs rerun provenance,pass,Revision and strict public tables mark all reported method numbers as rerun under this work; no original-paper numbers are mixed into the main comparisons.
+score_cap1 direct comparison,pass,jctc_direct_mechanism_vs_scorecap_bootstrap.* reports paired bootstrap deltas versus score_cap1; main stress delta is +0.270 hits and -0.0054 FDP.
+nominal alpha calibration,pass,"Calibration table spans q values [0.01, 0.025, 0.05, 0.1, 0.2, 0.7]; wording should remain risk-aware/risk-reducing unless empirical FDP <= alpha holds in the claimed cell."
+oracle-free budget policy,pass,Frozen development policy is selected on mild/no-artifact regimes and evaluated on held-out harder regimes.
+target-wise external VS panels,pass,Target-wise LIT-PCBA/DUD-E full and ligand-only score-backbone panels are summarized in jctc_external_targetwise_score_backbone_q_all.*.
+can claim SOTA?,conditional_pass,"Supported claim is conditional frontier-SOTA under dependency/artifact-prone finite-budget virtual screening, not unconditional hit-count SOTA and not full docking SOTA."

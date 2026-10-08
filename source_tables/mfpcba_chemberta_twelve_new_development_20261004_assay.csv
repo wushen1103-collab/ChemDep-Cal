@@ -1,0 +1,6 @@
+task,method,mean,std,rf_mean
+AID1224905,frozen_chemberta_score_xgb,28.4,2.408318915758459,29.0
+AID1979,frozen_chemberta_score_xgb,41.6,1.51657508881031,44.8
+AID485317,frozen_chemberta_score_xgb,41.8,3.7013511046643495,43.4
+AID504582,frozen_chemberta_score_xgb,39.8,2.16794833886788,41.2
+AID651658,frozen_chemberta_score_xgb,33.0,3.6742346141747673,34.4

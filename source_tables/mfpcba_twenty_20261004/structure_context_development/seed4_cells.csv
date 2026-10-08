@@ -1,0 +1,17 @@
+task,seed,ecfp_score_hits,ecfp_context_hits,gain
+GPCR,4,37,36,-1
+GPCR_2,4,17,18,1
+channel_atp,4,40,40,0
+cysteine_protease,4,33,31,-2
+dna_repair,4,38,36,-2
+hsf1,4,23,26,3
+methylation,4,22,24,2
+serine,4,5,5,0
+splicing,4,47,48,1
+streptokinase,4,27,26,-1
+transcription,4,33,34,1
+transcription2,4,24,23,-1
+transcription3,4,25,24,-1
+transcription_4,4,49,50,1
+transcription_5,4,14,15,1
+zinc_finger,4,26,22,-4

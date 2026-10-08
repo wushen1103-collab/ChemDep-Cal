@@ -1,0 +1,16 @@
+task,method,mean,std
+AID1224905,multifp_readout_context_ndcg50,20.0,1.5811388300841898
+AID1224905,multifp_readout_ndcg50,20.0,1.5811388300841898
+AID1224905,multifp_readout_xgb_logloss,28.0,2.5495097567963927
+AID1979,multifp_readout_context_ndcg50,37.8,1.3038404810405297
+AID1979,multifp_readout_ndcg50,37.8,1.3038404810405297
+AID1979,multifp_readout_xgb_logloss,43.6,1.1401754250991378
+AID485317,multifp_readout_context_ndcg50,33.6,1.8165902124584943
+AID485317,multifp_readout_ndcg50,33.6,1.8165902124584943
+AID485317,multifp_readout_xgb_logloss,41.6,1.8165902124584943
+AID504582,multifp_readout_context_ndcg50,36.6,2.701851217221259
+AID504582,multifp_readout_ndcg50,36.6,2.701851217221259
+AID504582,multifp_readout_xgb_logloss,40.0,1.0
+AID651658,multifp_readout_context_ndcg50,16.0,2.23606797749979
+AID651658,multifp_readout_ndcg50,16.0,2.23606797749979
+AID651658,multifp_readout_xgb_logloss,34.2,3.8340579025361636

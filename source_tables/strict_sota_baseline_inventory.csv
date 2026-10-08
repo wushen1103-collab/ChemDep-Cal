@@ -1,0 +1,18 @@
+method,external_or_ours,required_bucket,technical_route,comparison_role,result_source,source_note
+raw_top_b,external,classic_method,score_only_virtual_screening,classic top-B ranking,rerun_by_us,standard top-k/ranking control
+random_b,external,classic_method,random_screening_control,classic random budget control,rerun_by_us,standard random virtual-screening control
+bh,external,same_mechanism_direct_competitor,individual_FDR_control,Benjamini-Hochberg on conformal p-values,rerun_by_us,"Benjamini and Hochberg, 1995"
+by,external,same_mechanism_direct_competitor,dependency_robust_individual_FDR,Benjamini-Yekutieli dependency correction,rerun_by_us,"Benjamini and Yekutieli, 2001"
+weighted_bh,external,same_mechanism_direct_competitor,weighted_individual_FDR,inverse-block-size weighted BH,rerun_by_us,weighted multiple testing baseline
+block_bh,external,same_mechanism_direct_competitor,grouped_block_FDR,Simes block p-value followed by BH,rerun_by_us,Simes-style grouped testing baseline
+score_cap1,external,same_task_recent_or_strong,score_only_posthoc_diversification,score ranking with one molecule per block,rerun_by_us,strong scaffold-diversity reranking baseline
+bh_cap1,external,same_task_recent_or_strong,FDR_then_posthoc_diversification,BH candidates then one molecule per block,rerun_by_us,direct post-hoc competitor to ChemDep-RC
+score_leader70,external,same_task_recent_or_strong,score_ranked_leader_clustering,leader-style Tanimoto 0.70 diversity picking,rerun_by_us,Butina/leader-clustering family
+score_maxmin,external,same_task_recent_or_strong,score_seeded_maxmin_diversity,MaxMin diversity picking inside high-score pool,rerun_by_us,classical compound-library diversity selection
+score_mmr25,external,same_task_recent_or_strong,maximum_marginal_relevance,MMR score/diversity reranking,rerun_by_us,"Carbonell and Goldstein, 1998"
+score_dpp,external,same_task_recent_or_strong,determinantal_point_process,quality-weighted Tanimoto DPP greedy subset,rerun_by_us,Kulesza and Taskar DPP subset-selection family
+chemdeprc_cap1,ours,proposed_method_or_variant,chemical_dependency_aware_risk_control,ChemDep-RC proposed selector/ablation,rerun_by_us,this paper
+chemdeprc_soft50,ours,proposed_method_or_variant,chemical_dependency_aware_risk_control,ChemDep-RC proposed selector/ablation,rerun_by_us,this paper
+chemdeprc_soft75,ours,proposed_method_or_variant,chemical_dependency_aware_risk_control,ChemDep-RC proposed selector/ablation,rerun_by_us,this paper
+chemdeprc_scorecap1,ours,proposed_method_or_variant,chemical_dependency_aware_risk_control,ChemDep-RC proposed selector/ablation,rerun_by_us,this paper
+chemdeprc_scoresoft50,ours,proposed_method_or_variant,chemical_dependency_aware_risk_control,ChemDep-RC proposed selector/ablation,rerun_by_us,this paper

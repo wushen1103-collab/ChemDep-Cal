@@ -1,0 +1,10 @@
+aid,split_seed,method,hits,selected,scaffolds
+AID1798,3,pooled_natural_only,8,50,50
+AID1798,3,target_natural_only,5,50,50
+AID1798,3,task_class_scenario_balanced,5,50,50
+AID435034,3,pooled_natural_only,1,50,50
+AID435034,3,target_natural_only,5,50,50
+AID435034,3,task_class_scenario_balanced,1,50,50
+AID463087,3,pooled_natural_only,39,50,50
+AID463087,3,target_natural_only,37,50,50
+AID463087,3,task_class_scenario_balanced,37,50,50

@@ -1,0 +1,8 @@
+definition_dir,block_col,mode,block_definition,n_targets,mean_n_blocks,mean_max_block_size,mean_singleton_rate,mean_median_block_size
+data/chembl_ecfp_xgb_potent_a7_i6_analog,analog_series_block,analog_series_generic_murcko,RDKit generic Bemis-Murcko scaffold used as an analog-series proxy,10,158.1,40.6,0.6382143091040712,1.0
+data/chembl_ecfp_xgb_potent_a7_i6_hybrid75,hybrid75_block,hybrid,connected components of ECFP4 Tanimoto graph plus original Murcko scaffold edges,10,165.0,44.0,0.673875288922362,1.0
+data/chembl_ecfp_xgb_potent_a7_i6_tanimoto40,tanimoto40_block,tanimoto,connected components of ECFP4 Tanimoto graph,10,81.0,112.3,0.5617947187269167,1.1
+data/chembl_ecfp_xgb_potent_a7_i6_tanimoto50,tanimoto50_block,tanimoto,connected components of ECFP4 Tanimoto graph,10,106.1,68.7,0.567553950479597,1.15
+data/chembl_ecfp_xgb_potent_a7_i6_tanimoto60,tanimoto60_block,tanimoto,connected components of ECFP4 Tanimoto graph,10,136.3,54.9,0.6258566314512717,1.1
+data/chembl_ecfp_xgb_potent_a7_i6_tanimoto70,tanimoto70_block,tanimoto,connected components of ECFP4 Tanimoto graph,10,186.5,43.3,0.7149471935559925,1.0
+data/chembl_ecfp_xgb_potent_a7_i6_tanimoto80,tanimoto80_block,tanimoto,connected components of ECFP4 Tanimoto graph,10,289.2,18.4,0.825207034984157,1.0

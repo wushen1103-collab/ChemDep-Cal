@@ -1,0 +1,6 @@
+task,seed,method,hits,coverage,test_n,test_pos
+GPCR,1,mvsa_author_code_primary_only,18,1.0,298,148
+GPCR,2,mvsa_author_code_primary_only,22,1.0,304,147
+GPCR,3,mvsa_author_code_primary_only,22,1.0,310,156
+GPCR,4,mvsa_author_code_primary_only,23,1.0,360,174
+GPCR,5,mvsa_author_code_primary_only,21,1.0,300,152

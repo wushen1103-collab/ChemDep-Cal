@@ -1,0 +1,31 @@
+block_mode,target_chembl_id,pref_name,n_molecules,n_blocks,max_block_size,median_block_size,singleton_rate,tanimoto_edges,murcko_edges
+hybrid75,CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",359,136,29,1.0,0.6617647058823529,488.0,200.0
+hybrid75,CHEMBL1862,Tyrosine-protein kinase ABL1,359,131,69,1.0,0.6946564885496184,335.0,209.0
+hybrid75,CHEMBL203,Epidermal growth factor receptor,398,122,64,1.0,0.6229508196721312,386.0,259.0
+hybrid75,CHEMBL217,D(2) dopamine receptor,355,146,35,1.0,0.6301369863013698,251.0,201.0
+hybrid75,CHEMBL235,Peroxisome proliferator-activated receptor gamma,338,117,33,1.0,0.6324786324786325,460.0,206.0
+hybrid75,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,514,267,20,1.0,0.6928838951310862,306.0,232.0
+hybrid75,CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,443,183,40,1.0,0.6830601092896175,433.0,241.0
+hybrid75,CHEMBL279,Vascular endothelial growth factor receptor 2,425,176,31,1.0,0.7045454545454546,344.0,231.0
+hybrid75,CHEMBL2971,Tyrosine-protein kinase JAK2,504,208,89,1.0,0.7211538461538461,918.0,281.0
+hybrid75,CHEMBL301,Cyclin-dependent kinase 2,372,164,30,1.0,0.6951219512195121,263.0,194.0
+murcko,CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",359,159,27,1.0,0.710691823899371,,
+murcko,CHEMBL1862,Tyrosine-protein kinase ABL1,359,150,64,1.0,0.7133333333333334,,
+murcko,CHEMBL203,Epidermal growth factor receptor,398,139,63,1.0,0.6762589928057554,,
+murcko,CHEMBL217,D(2) dopamine receptor,355,154,29,1.0,0.6753246753246753,,
+murcko,CHEMBL235,Peroxisome proliferator-activated receptor gamma,338,132,31,1.0,0.6666666666666666,,
+murcko,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,514,282,20,1.0,0.723404255319149,,
+murcko,CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,443,202,40,1.0,0.7029702970297029,,
+murcko,CHEMBL279,Vascular endothelial growth factor receptor 2,425,194,30,1.0,0.7268041237113402,,
+murcko,CHEMBL2971,Tyrosine-protein kinase JAK2,504,223,43,1.0,0.7130044843049327,,
+murcko,CHEMBL301,Cyclin-dependent kinase 2,372,178,29,1.0,0.7415730337078652,,
+tanimoto80,CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",359,223,14,1.0,0.7757847533632287,234.0,0.0
+tanimoto80,CHEMBL1862,Tyrosine-protein kinase ABL1,359,256,17,1.0,0.8046875,125.0,0.0
+tanimoto80,CHEMBL203,Epidermal growth factor receptor,398,298,14,1.0,0.8456375838926175,194.0,0.0
+tanimoto80,CHEMBL217,D(2) dopamine receptor,355,268,10,1.0,0.8208955223880597,138.0,0.0
+tanimoto80,CHEMBL235,Peroxisome proliferator-activated receptor gamma,338,200,13,1.0,0.78,304.0,0.0
+tanimoto80,CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,514,383,10,1.0,0.825065274151436,178.0,0.0
+tanimoto80,CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,443,301,15,1.0,0.8205980066445183,285.0,0.0
+tanimoto80,CHEMBL279,Vascular endothelial growth factor receptor 2,425,312,10,1.0,0.8461538461538461,150.0,0.0
+tanimoto80,CHEMBL2971,Tyrosine-protein kinase JAK2,504,351,61,1.0,0.8632478632478633,313.0,0.0
+tanimoto80,CHEMBL301,Cyclin-dependent kinase 2,372,300,20,1.0,0.87,158.0,0.0

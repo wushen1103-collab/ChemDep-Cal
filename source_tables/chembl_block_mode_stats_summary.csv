@@ -1,0 +1,4 @@
+block_mode,n_targets,n_blocks_mean,n_blocks_min,n_blocks_max,max_block_size_mean,max_block_size_max,singleton_rate_mean
+hybrid75,10,165.0,117,267,44.0,89,0.673875288922362
+murcko,10,181.3,132,282,37.6,64,0.7050031686102792
+tanimoto80,10,289.2,200,383,18.4,61,0.825207034984157

@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+GPCR,1,38,37,-1
+GPCR,2,37,36,-1
+GPCR,3,40,38,-2
+GPCR,4,37,35,-2
+GPCR,5,40,38,-2

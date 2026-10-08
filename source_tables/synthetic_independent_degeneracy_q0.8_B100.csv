@@ -1,0 +1,4 @@
+scenario,q,budget_label,budget,method,delta_fdp,delta_fdp_exceeds_q,delta_true_hits,delta_precision,delta_unique_blocks,delta_max_block_share,delta_mean_pairwise_tanimoto
+independent,0.8,100,100,chemdeprc_cap1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+independent,0.8,100,100,chemdeprc_cap2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+independent,0.8,100,100,weighted_bh,0.0,0.0,0.0,0.0,0.0,0.0,0.0

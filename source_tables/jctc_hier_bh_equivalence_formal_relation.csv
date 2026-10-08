@@ -1,0 +1,6 @@
+step,statement
+1,Both methods compute the same Simes p-value for each dependency block and apply BH to the same block-level p-values.
+2,"For any selected block, the block-level BH threshold is at most q, so its Simes p-value is <= q; therefore the within-block BH(q) pass is nonempty and includes the minimum-p candidate."
+3,"With cap=1 and p-value member ranking, both methods retain exactly the within-block candidate with the smallest p-value, using the same score tie-breaker."
+4,Round-robin budget allocation over the same ordered selected blocks is therefore identical for chemdeprc_cap1 and hier_bh_cap1.
+5,"Equivalence need not hold for soft caps, score-ranked variants, cap>1 variants, alternative block p-values, or explicit budget policies."

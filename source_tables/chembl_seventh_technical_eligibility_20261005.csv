@@ -1,0 +1,29 @@
+target_chembl_id,passes_global_quality,eligible,reason
+CHEMBL402,False,False,global quality threshold
+CHEMBL1778,False,False,global quality threshold
+CHEMBL1781,True,False,test scaffold capacity below 50
+CHEMBL1782,False,False,global quality threshold
+CHEMBL1783,False,False,global quality threshold
+CHEMBL1784,False,False,global quality threshold
+CHEMBL1785,True,True,
+CHEMBL1786,False,False,global quality threshold
+CHEMBL1787,False,False,global quality threshold
+CHEMBL1790,False,False,global quality threshold
+CHEMBL1791,False,False,global quality threshold
+CHEMBL1792,False,False,global quality threshold
+CHEMBL1793,False,False,global quality threshold
+CHEMBL1798,False,False,global quality threshold
+CHEMBL1800,False,False,global quality threshold
+CHEMBL1801,True,True,
+CHEMBL1803,False,False,global quality threshold
+CHEMBL1804,False,False,global quality threshold
+CHEMBL1805,False,False,global quality threshold
+CHEMBL1806,False,False,global quality threshold
+CHEMBL1807,False,False,global quality threshold
+CHEMBL1808,True,False,test scaffold capacity below 50
+CHEMBL1810,False,False,global quality threshold
+CHEMBL1811,False,False,global quality threshold
+CHEMBL1812,False,False,global quality threshold
+CHEMBL1817,False,False,global quality threshold
+CHEMBL1818,False,False,global quality threshold
+CHEMBL1821,True,True,

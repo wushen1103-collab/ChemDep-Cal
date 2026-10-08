@@ -1,0 +1,17 @@
+task,method,mean,std,rf_mean
+GPCR,frozen_molformer_score_xgb,36.2,2.7748873851023217,39.4
+GPCR_2,frozen_molformer_score_xgb,19.4,2.1908902300206647,18.6
+channel_atp,frozen_molformer_score_xgb,40.2,1.0954451150103328,40.8
+cysteine_protease,frozen_molformer_score_xgb,30.8,3.271085446759225,32.2
+dna_repair,frozen_molformer_score_xgb,36.6,3.1304951684997047,37.8
+hsf1,frozen_molformer_score_xgb,27.4,3.049590136395381,27.0
+methylation,frozen_molformer_score_xgb,23.4,0.8944271909999162,24.6
+serine,frozen_molformer_score_xgb,6.6,2.8809720581775866,6.4
+splicing,frozen_molformer_score_xgb,47.6,1.1401754250991378,48.4
+streptokinase,frozen_molformer_score_xgb,31.0,2.1213203435596424,31.0
+transcription,frozen_molformer_score_xgb,35.8,2.4899799195977455,37.8
+transcription2,frozen_molformer_score_xgb,16.8,2.5884358211089573,19.6
+transcription3,frozen_molformer_score_xgb,25.6,3.0495901363953815,27.0
+transcription_4,frozen_molformer_score_xgb,48.6,0.547722557505166,49.4
+transcription_5,frozen_molformer_score_xgb,11.4,1.6733200530681513,13.0
+zinc_finger,frozen_molformer_score_xgb,30.0,1.5811388300841898,29.0

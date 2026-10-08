@@ -1,0 +1,11 @@
+target_chembl_id,pref_name,n_panel,n_active,n_inactive,active_rate,unique_scaffolds,calibration_inactive,testpool_active,testpool_inactive,passes_smoke_threshold
+CHEMBL1827,"cGMP-specific 3',5'-cyclic phosphodiesterase",1795,1167,628,0.6501392757660167,795,128,245,114,True
+CHEMBL1862,Tyrosine-protein kinase ABL1,1795,1310,485,0.7298050139275766,752,91,276,83,True
+CHEMBL203,Epidermal growth factor receptor,1991,1063,928,0.5339025615268709,698,194,235,163,True
+CHEMBL217,D(2) dopamine receptor,1775,1073,702,0.6045070422535211,772,160,219,136,True
+CHEMBL235,Peroxisome proliferator-activated receptor gamma,1687,748,939,0.4433906342620035,661,243,174,164,True
+CHEMBL240,Voltage-gated inwardly rectifying potassium channel KCNH2,2570,295,2275,0.1147859922178988,1410,457,47,467,True
+CHEMBL267,Proto-oncogene tyrosine-protein kinase Src,2215,1010,1205,0.455981941309255,1012,208,201,242,True
+CHEMBL279,Vascular endothelial growth factor receptor 2,2126,1400,726,0.658513640639699,973,154,268,157,True
+CHEMBL2971,Tyrosine-protein kinase JAK2,2520,1963,557,0.778968253968254,1116,104,396,108,True
+CHEMBL301,Cyclin-dependent kinase 2,1860,964,896,0.5182795698924731,887,177,204,168,True

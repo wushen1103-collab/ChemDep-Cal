@@ -1,0 +1,6 @@
+q,budget_label,n_paired_target_reps,all_metric_equal_rate,max_abs_true_hits_delta,max_abs_fdp_delta,max_abs_fdp_exceeds_q_delta
+0.7,100,10500,1.0,0.0,0.0,0.0
+0.7,20,10500,1.0,0.0,0.0,0.0
+0.7,30,10500,1.0,0.0,0.0,0.0
+0.7,50,10500,1.0,0.0,0.0,0.0
+0.7,75,10500,1.0,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+channel_atp,1,41,44,3
+channel_atp,2,43,41,-2
+channel_atp,3,42,43,1
+channel_atp,4,40,41,1
+channel_atp,5,39,40,1

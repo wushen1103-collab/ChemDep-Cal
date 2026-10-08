@@ -1,0 +1,5 @@
+method,hits_mean,hits_target_sd,hits_seed_sd,chemdep_gain,bootstrap_ci_low,bootstrap_ci_high,positive_targets,negative_targets,exact_signflip_p_descriptive
+chemdep_cal,35.059375,17.044128,0.374564,,,,,,
+xgb_pairwise_cap1,34.401250,17.215807,0.509186,0.658125,0.381875,0.947500,8.000000,0.000000,0.007812
+score_cap1,33.428125,15.049635,0.176652,1.631250,0.061234,3.275000,6.000000,2.000000,0.125000
+mmr_cap1_l095,32.430625,14.617663,0.234660,2.628750,0.775000,4.449375,7.000000,1.000000,0.039062

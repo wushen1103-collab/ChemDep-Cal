@@ -1,0 +1,10 @@
+jctc_requirement,status,evidence
+LIT-PCBA/DUD-E or structure-oriented public VS benchmark,partial,LIT-PCBA and DUD-E external score-backbone panels are converted and selected under one protocol; no full claim-safe docking benchmark yet
+multiple scoring backbones,partial,ECFP-XGBoost plus external full and ligand-only logits; docking-score backbone remains outside the claim boundary
+multiple dependence definitions,pass,"Murcko, Tanimoto40/50/60/70/80, hybrid75, and analog-series proxy definitions with block stats and selection outcomes"
+budget x dependence x cap-strength phase diagram tables,pass,continuous budgets and artifact strength grid from JCTC stress runner
+block misspecification robustness,pass,"split, merge, missing-edge, and false-edge perturbations evaluated against true Murcko blocks"
+ALBF / modern finite-budget competitor,partial,one-shot diversity/FDR competitors complete; sequential ALBF remains a separate protocol unless active-learning replay table exists
+runtime / scalability,pass,selection runtime across synthetic N and ChEMBL panel sizes
+paired bootstrap CI and frontier probability,pass,paired target/rep bootstrap CIs and P(non-dominated) tables
+formal properties,documented,"independence reduction, hard-cap feasible set, and soft-cap limiting behavior noted for manuscript methods/SI"

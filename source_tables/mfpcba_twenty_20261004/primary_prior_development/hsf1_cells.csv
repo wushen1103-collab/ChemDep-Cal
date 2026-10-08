@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+hsf1,1,24,26,2
+hsf1,2,23,29,6
+hsf1,3,32,31,-1
+hsf1,4,23,27,4
+hsf1,5,27,27,0

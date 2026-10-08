@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+dna_repair,1,42,40,-2
+dna_repair,2,36,37,1
+dna_repair,3,35,32,-3
+dna_repair,4,38,38,0
+dna_repair,5,33,33,0

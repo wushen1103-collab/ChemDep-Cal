@@ -1,0 +1,12 @@
+technical_route,method,true_hits,true_hits_std,fdp,fdp_std,fdp_exceeds_q,unique_blocks,max_block_share,mean_pairwise_tanimoto,n_target_reps,n_targets,result_source
+block_level_fdr,block_bh,40.062,11.815301888544148,0.19876,0.2363060377708829,0.098,22.11,0.28876,0.2914545139372348,500,10,rerun_same_scores_same_splits_this_work
+classic_marginal_fdr,bh,40.062,11.815301888544148,0.19876,0.2363060377708829,0.098,22.11,0.28876,0.2914545139372348,500,10,rerun_same_scores_same_splits_this_work
+dependence_robust_block_fdr,block_by_cap1,31.884,18.143674651506505,0.1166524866609745,0.1411060710984908,0.0,34.952,0.0272008839742309,0.2043431760966777,500,10,rerun_same_scores_same_splits_this_work
+familywise_block_screen_plus_cap,minp_block_bh_cap1,41.884,9.082925909979243,0.16232,0.1816585181995849,0.0,50.0,0.02,0.2083624532818793,500,10,rerun_same_scores_same_splits_this_work
+formal_cap1_special_case_diagnostic,hier_bh_cap1,42.454,9.183711947260791,0.15092,0.1836742389452157,0.0,50.0,0.02,0.2162351603507995,500,10,rerun_same_scores_same_splits_this_work
+posthoc_fdr_plus_diversity_cap,bh_cap1,42.184,9.266384178928847,0.15632,0.1853276835785771,0.0,50.0,0.02,0.216340610384941,500,10,rerun_same_scores_same_splits_this_work
+proposed_grouped_risk_aware_cap,chemdeprc_cap1,42.454,9.183711947260791,0.15092,0.1836742389452157,0.0,50.0,0.02,0.2162351603507995,500,10,rerun_same_scores_same_splits_this_work
+proposed_score_ranked_grouped_cap,chemdeprc_scorecap1,42.204,9.212824554529671,0.15592,0.1842564910905936,0.0,50.0,0.02,0.2163686594367027,500,10,rerun_same_scores_same_splits_this_work
+proposed_soft_budget_grouped_cap,chemdeprc_soft75,41.876,9.870941950491863,0.1624799999999999,0.197418839009837,0.0,38.0,0.0464,0.2339210706949233,500,10,rerun_same_scores_same_splits_this_work
+score_ranked_diversity_cap,score_cap1,42.184,9.266384178928847,0.15632,0.1853276835785771,0.0,50.0,0.02,0.216340610384941,500,10,rerun_same_scores_same_splits_this_work
+weighted_or_block_size_fdr,weighted_bh,41.57,10.247884575684544,0.1686,0.2049576915136908,0.014,41.526,0.08064,0.216136959195137,500,10,rerun_same_scores_same_splits_this_work

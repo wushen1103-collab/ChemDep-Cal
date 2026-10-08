@@ -1,0 +1,17 @@
+task,method,mean,std,rf_mean
+GPCR,frozen_chemberta_score_xgb,37.0,3.3911649915626345,39.4
+GPCR_2,frozen_chemberta_score_xgb,18.8,2.7748873851023212,18.6
+channel_atp,frozen_chemberta_score_xgb,39.8,2.16794833886788,40.8
+cysteine_protease,frozen_chemberta_score_xgb,32.8,2.16794833886788,32.2
+dna_repair,frozen_chemberta_score_xgb,36.2,3.1144823004794873,37.8
+hsf1,frozen_chemberta_score_xgb,23.2,2.5884358211089573,27.0
+methylation,frozen_chemberta_score_xgb,23.0,2.1213203435596424,24.6
+serine,frozen_chemberta_score_xgb,6.2,2.949576240750525,6.4
+splicing,frozen_chemberta_score_xgb,45.2,1.3038404810405289,48.4
+streptokinase,frozen_chemberta_score_xgb,31.8,3.898717737923586,31.0
+transcription,frozen_chemberta_score_xgb,35.8,2.387467277262665,37.8
+transcription2,frozen_chemberta_score_xgb,16.0,4.06201920231798,19.6
+transcription3,frozen_chemberta_score_xgb,27.2,3.033150177620621,27.0
+transcription_4,frozen_chemberta_score_xgb,48.8,1.095445115010333,49.4
+transcription_5,frozen_chemberta_score_xgb,11.0,1.8708286933869709,13.0
+zinc_finger,frozen_chemberta_score_xgb,27.2,3.1144823004794877,29.0

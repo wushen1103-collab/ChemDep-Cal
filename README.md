@@ -10,11 +10,15 @@ matched comparison.
 
 - `src/chemdeprc/`: selection and diversity-control primitives. The module
   name is retained for compatibility with the original experiment scripts.
-- `scripts/`: ChEMBL and MoleculeNet panel construction, XGBoost scoring,
-  calibration ranker, fixed selectors, fusion, and evaluation programs.
-- `source_tables/`: five-seed cell-level outcomes and table inputs for the
-  primary ChEMBL comparison, the later 30-target benchmark, and natural-score
-  transfer. These are our reruns, not values transcribed from other papers.
+- `scripts/`: the complete small Python experiment-script set for panel
+  construction, scoring, calibration ranking, baselines, supplementary
+  analyses, fusion, and evaluation. The one unrelated cross-project script
+  with a hard-coded private path is excluded.
+- `source_tables/`: five-seed cells, summary tables, and supplementary analysis
+  CSVs. Two source tables have machine-specific paths converted to repository-
+  relative paths. These are
+  our reruns, not values transcribed from other papers; see
+  [RESULT_INDEX.md](RESULT_INDEX.md) for current-paper entry points.
 - `data/archives/chemdep-cal-chembl-scores-clean.tar.gz`: compressed ChEMBL
   scorer inputs, model files, and fixed-selector references (31.7 MB). It
   excludes raw API responses and machine-specific paths.
@@ -105,3 +109,9 @@ seed, perturbation, method, selected count, scaffold count, and hits.
 
 The code is MIT-licensed. ChEMBL-derived records in the archive retain their
 upstream CC BY-SA 3.0 terms; see [DATA_SOURCES.md](DATA_SOURCES.md).
+
+Some supplementary scripts require optional `lightgbm`, `catboost`, `torch`,
+or `transformers` packages. Author-implementation controls such as OPDiv and
+MVS-A additionally require their original public source trees; these third-party
+repositories and checkpoints are not mirrored here. Archived result cells allow
+their reported comparisons to be checked without those installations.

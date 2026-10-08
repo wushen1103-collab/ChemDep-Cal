@@ -1,0 +1,8 @@
+baseline,method,metric,wins,ties,losses,n_scenarios
+score_cap1,chemdeprc_cap1,true_hits,64,2,39,105
+score_cap1,chemdeprc_cap1,fdp,96,2,7,105
+score_cap1,chemdeprc_cap1,fdp_exceeds_q,29,76,0,105
+score_cap1,chemdeprc_cap1,unique_blocks,0,70,35,105
+score_cap1,chemdeprc_cap1,max_block_share,0,70,35,105
+score_cap1,chemdeprc_cap1,mean_pairwise_tanimoto,60,0,45,105
+score_cap1,chemdeprc_cap1,four_metric_pareto,62,36,7,105

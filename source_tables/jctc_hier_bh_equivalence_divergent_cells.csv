@@ -1,0 +1,2 @@
+status,n_cells_checked,n_paired_target_reps,interpretation
+no_metric_divergent_cells_detected,105,52500,The audited grid shows metric-level equivalence for ChemDep-RC cap1 and hier_bh_cap1 in every q x budget x artifact cell.

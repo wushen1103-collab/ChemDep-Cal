@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain,fallback
+serine,1,5,5,0,primary_positive_lt20
+serine,2,7,7,0,primary_positive_lt20
+serine,3,6,6,0,primary_positive_lt20
+serine,4,5,5,0,primary_positive_lt20
+serine,5,4,4,0,primary_positive_lt20

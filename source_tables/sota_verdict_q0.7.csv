@@ -1,0 +1,10 @@
+evaluation_unit,best_true_hits_method,best_true_hits,best_chemdeprc_method,best_chemdeprc_true_hits,hit_gap_best_minus_chemdeprc,lowest_fdp_method,lowest_fdp,max_unique_blocks_method,max_unique_blocks,chemdeprc_family_non_dominated,n_methods_dominating_chemdeprc_cap1
+synthetic:block_label_noise:B100,chemdeprc_cap1,67.85,chemdeprc_cap1,67.85,0.0,by,0.2886935412032314,chemdeprc_cap1,100.0,True,0
+synthetic:block_label_noise:B1pct,bh_cap1,128.28,chemdeprc_scorecap1,128.275,0.0049999999999954525,by,0.2994250113399057,bh_cap1,200.0,False,9
+synthetic:block_label_noise:B50,weighted_bh,37.215,chemdeprc_cap1,35.305,1.9100000000000037,weighted_bh,0.2557,chemdeprc_cap1,50.0,True,0
+chembl_routine:B100,raw_top_b,88.5,chemdeprc_scoresoft50,83.8,4.700000000000003,by,0.0393207032751931,score_cap1,100.0,True,1
+chembl_routine:B50,block_bh,45.3,chemdeprc_scoresoft75,44.3,1.0,by,0.0322857142857142,bh_cap1,50.0,True,0
+chembl_artifact:f0.1_boost4:B100,block_bh,81.146,chemdeprc_soft50,80.651,0.49500000000000455,by,0.1703631509770995,score_cap1,100.0,True,1
+chembl_artifact:f0.1_boost4:B50,chemdeprc_cap1,42.42,chemdeprc_cap1,42.42,0.0,chemdeprc_cap1,0.1515999999999999,chemdeprc_cap1,50.0,True,0
+chembl_artifact:f0_boost0:B100,raw_top_b,88.5,chemdeprc_scoresoft50,83.8,4.700000000000003,by,0.0393207032751931,score_cap1,100.0,True,1
+chembl_artifact:f0_boost0:B50,block_bh,45.3,chemdeprc_scoresoft75,44.3,1.0,by,0.0322857142857142,bh_cap1,50.0,True,0

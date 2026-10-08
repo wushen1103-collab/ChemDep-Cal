@@ -1,0 +1,12 @@
+requirement,status,evidence
+8-12 external methods,pass,"12 core external methods rerun: raw_top_b, random_b, bh, by, weighted_bh, block_bh, score_cap1, bh_cap1, score_leader70, score_maxmin, score_mmr25, score_dpp"
+classic methods >=2,pass,raw_top_b and random_b are included as classic controls
+same-task strong baselines 4-6,pass,"score_cap1, bh_cap1, leader70, MaxMin, MMR, and DPP form the strong VS/diversity set"
+same-mechanism direct competitors 2-4,pass,"BH, BY, weighted BH, and block BH share the conformal/FDR mechanism"
+baselines grouped by technical route,pass,13 technical-route groups are listed in strict_sota_baseline_inventory
+2-4 public datasets,pass,4 public MoleculeNet datasets in the strict suite
+same protocol/split fairness,pass,"all methods consume the same score files, calibration split, testpool, q, and budget per panel"
+special scenarios,pass,"scaffold OOD, cold-start20, feature-missing25, and HIV long-tail are represented"
+mean +/- std over at least 5 seeds,pass,minimum seed count across dataset-scenario cells is 5
+original-paper vs rerun source is explicit,pass,strict suite does not import original-paper numbers; all listed numbers are reruns under our protocol
+true modern SOTA claim boundary,pass,ChemDep-RC reaches at least one non-dominated risk-power-diversity point and is best-hit in at least one setting

@@ -1,0 +1,4 @@
+target,multifp_rf_hits_mean,multifp_rf_hits_std,augmented_score_rf_hits_mean,augmented_score_rf_hits_std,equal_rank_fusion_hits_mean,equal_rank_fusion_hits_std
+CHEMBL1785,19.25,0.0,19.910000000000004,0.08215838362577406,19.32,0.0974679434480898
+CHEMBL1801,14.0,0.0,14.794999999999998,0.44455033460790483,14.0,0.0
+CHEMBL1821,43.75,0.31174909783349924,41.6,0.8944271909999161,42.39,0.7453187237685625

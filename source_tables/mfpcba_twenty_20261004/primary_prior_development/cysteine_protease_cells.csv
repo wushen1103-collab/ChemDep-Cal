@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+cysteine_protease,1,29,27,-2
+cysteine_protease,2,31,29,-2
+cysteine_protease,3,29,31,2
+cysteine_protease,4,33,33,0
+cysteine_protease,5,32,34,2

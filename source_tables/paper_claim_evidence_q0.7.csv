@@ -1,0 +1,13 @@
+evidence,dataset,scenario,q,budget_label,block_mode,method,delta_true_hits_vs_bh,delta_fdp_vs_bh,delta_fdp_exceeds_q_vs_bh,delta_unique_blocks_vs_bh,delta_max_block_share_vs_bh,delta_tanimoto_vs_bh,interpretation
+mechanism,synthetic,block_label_noise,0.7,100,known blocks,chemdeprc_cap1,18.205000000000005,-0.18205,0.0,37.665,-0.08565,-0.0151756767676766,main synthetic mechanism result
+mechanism,synthetic,block_label_noise,0.7,100,known blocks,weighted_bh,13.704999999999998,-0.13705,0.0,14.484999999999992,-0.0316,-0.0085487676767675,strong partial baseline
+real tradeoff,ChEMBL potent,no_artifact,0.7,50,murcko,chemdeprc_soft75,-1.1999999999999957,0.023999999999999994,0.0,13.899999999999999,-0.23000000000000004,-0.05717217760129639,routine diversity-aware selector
+real tradeoff,ChEMBL potent,no_artifact,0.7,50,murcko,weighted_bh,-1.5,0.03,0.0,19.6,-0.21400000000000002,-0.07907503561537499,hit-preserving diversity baseline
+real tradeoff,ChEMBL potent,no_artifact,0.7,100,murcko,chemdeprc_soft75,-7.8999999999999915,0.0814124111182935,0.1,31.39999999999999,-0.2085778926955398,-0.0664800093179582,routine diversity-aware selector
+real tradeoff,ChEMBL potent,no_artifact,0.7,100,murcko,weighted_bh,-6.0,0.057942665673864496,0.0,31.200000000000003,-0.18570141474311241,-0.06573237696776751,hit-preserving diversity baseline
+artifact stress,ChEMBL potent,frac0.1_boost4,0.7,50,murcko,chemdeprc_cap1,2.4170000000000016,-0.0483400000000001,-0.1,27.857,-0.26896,-0.075120302000457,strict finite-budget artifact defense
+artifact stress,ChEMBL potent,frac0.1_boost4,0.7,50,murcko,chemdeprc_soft75,1.7830000000000013,-0.03566,-0.1,15.857,-0.2425399999999999,-0.0577102865944703,soft finite-budget artifact defense
+artifact stress,ChEMBL potent,frac0.1_boost4,0.7,100,murcko,chemdeprc_soft75,-2.8730000000000047,0.02873,0.0,35.765,-0.23,-0.0668430731924801,diversity-first high-budget boundary
+artifact stress,ChEMBL potent,frac0.1_boost4,0.7,100,murcko,weighted_bh,-3.423000000000002,0.03423,0.0,31.695000000000007,-0.18164,-0.0609727085502105,hit-preserving high-budget baseline
+block sensitivity,ChEMBL potent,frac0.1_boost4,0.7,50,hybrid75,chemdeprc_soft75,1.774000000000001,-0.03548,-0.1,18.73,-0.25416,-0.071585108495169,conservative block sensitivity near Murcko
+block sensitivity,ChEMBL potent,frac0.1_boost4,0.7,50,tanimoto80,chemdeprc_soft75,-0.5730000000000004,0.0011373004471028,-0.009,3.805,-0.0576007694433049,-0.0130904346638761,too fine for finite-budget artifact protection

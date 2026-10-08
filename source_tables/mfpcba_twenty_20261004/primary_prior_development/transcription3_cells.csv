@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+transcription3,1,28,30,2
+transcription3,2,23,22,-1
+transcription3,3,26,26,0
+transcription3,4,25,25,0
+transcription3,5,28,28,0

@@ -1,0 +1,6 @@
+task,seed,ecfp_score_hits,ecfp_primary_prior_hits,gain
+streptokinase,1,24,26,2
+streptokinase,2,36,35,-1
+streptokinase,3,26,30,4
+streptokinase,4,27,28,1
+streptokinase,5,28,28,0

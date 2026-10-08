@@ -1,0 +1,5 @@
+target,scorecap_hits,chemdep_hits,delta_hits,changed_compounds,changed_scaffolds,within_scaffold_replacements,added_true_hits,removed_true_hits,added_original_score,removed_original_score
+bace,38.8,37.8,-1.0,15.2,3.4,11.8,11.6,12.6,0.665068102219861,0.8017253060664189
+bbbp,49.4,46.8,-2.6,42.0,39.4,2.6,39.0,41.6,0.8319059895784612,0.9545426849265803
+clintox_ct_tox,10.8,8.8,-2.0,22.8,16.4,6.4,3.2,5.2,0.2401347822584965,0.44779489314416476
+hiv,31.0,26.8,-4.2,25.2,12.4,12.8,10.2,14.4,0.794474445352084,0.9267253778276443

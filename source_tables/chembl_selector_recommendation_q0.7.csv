@@ -1,0 +1,7 @@
+scenario,stress_label,budget_label,block_mode,selector,delta_true_hits_vs_bh,delta_fdp_vs_bh,delta_fdp_exceeds_q_vs_bh,delta_unique_blocks_vs_bh,delta_max_block_share_vs_bh,delta_tanimoto_vs_bh,interpretation
+routine diversity-aware screen,no_artifact,50,murcko,chemdeprc_soft75,-1.1999999999999955,0.0239999999999999,0.0,13.9,-0.23,-0.0571721776012963,default soft selector at small budget
+routine diversity-aware screen,no_artifact,100,murcko,chemdeprc_soft75,-7.899999999999991,0.0814124111182935,0.1,31.39999999999999,-0.2085778926955398,-0.0664800093179581,diversity-first; weighted_bh is the hit-preserving companion
+finite-budget scaffold-artifact risk,frac0.1_boost4,50,murcko,chemdeprc_cap1,2.4170000000000016,-0.0483400000000001,-0.1,27.857,-0.26896,-0.075120302000457,strongest risk-and-hit improvement
+finite-budget scaffold-artifact risk,frac0.1_boost4,50,murcko,chemdeprc_soft75,1.7830000000000013,-0.03566,-0.1,15.857,-0.2425399999999999,-0.0577102865944703,less strict alternative with nearly the same risk gain
+high-budget artifact sensitivity,frac0.1_boost4,100,murcko,chemdeprc_soft75,-2.8730000000000047,0.02873,0.0,35.765,-0.23,-0.0668430731924801,diversity-first high-budget setting
+high-budget artifact sensitivity,frac0.1_boost4,100,tanimoto80,chemdeprc_soft75,-0.7740000000000009,0.0008189834272105,0.0,10.415000000000006,-0.070570315665555,-0.0185418687616178,hit-preserving sensitivity setting; weaker concentration control

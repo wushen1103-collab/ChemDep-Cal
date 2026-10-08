@@ -1,0 +1,16 @@
+aid,seed,method,hits,selected,scaffolds,n_train,train_actives,n_test,test_actives
+AID1798,2,fp_only,8,50,50,875,123,217,29
+AID1798,2,fp_score,6,50,50,875,123,217,29
+AID1798,2,evidence_only,9,50,50,875,123,217,29
+AID1798,2,fp_evidence,6,50,50,875,123,217,29
+AID1798,2,score_cap1,10,50,50,875,123,217,29
+AID435034,2,fp_only,7,50,50,806,45,193,12
+AID435034,2,fp_score,7,50,50,806,45,193,12
+AID435034,2,evidence_only,7,50,50,806,45,193,12
+AID435034,2,fp_evidence,7,50,50,806,45,193,12
+AID435034,2,score_cap1,10,50,50,806,45,193,12
+AID463087,2,fp_only,35,50,50,593,443,141,99
+AID463087,2,fp_score,35,50,50,593,443,141,99
+AID463087,2,evidence_only,35,50,50,593,443,141,99
+AID463087,2,fp_evidence,37,50,50,593,443,141,99
+AID463087,2,score_cap1,35,50,50,593,443,141,99

@@ -1,0 +1,11 @@
+task,method,mean,std
+AID1224905,multifp_score_readout_rf,29.0,1.9999999999999998
+AID1224905,multifp_score_rf,26.8,2.6832815729997477
+AID1979,multifp_score_readout_rf,44.8,0.8366600265340757
+AID1979,multifp_score_rf,43.6,1.1401754250991376
+AID485317,multifp_score_readout_rf,43.4,1.5165750888103107
+AID485317,multifp_score_rf,43.4,2.8809720581775866
+AID504582,multifp_score_readout_rf,41.2,0.44721359549995865
+AID504582,multifp_score_rf,41.4,1.6733200530681516
+AID651658,multifp_score_readout_rf,34.4,4.449719092257397
+AID651658,multifp_score_rf,35.0,4.527692569068708

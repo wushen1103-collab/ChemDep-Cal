@@ -1,0 +1,9 @@
+aid,seed,method,hits,selected,scaffolds,test_active,testpool_size,score_boundary_tied_leaders,scorecap_random_tie_mean,scorecap_random_tie_sd
+AID2258,2,chemdep_cal,36,50,50,140,205,3,40.0,0.0
+AID2258,2,score_only_ranker,35,50,50,140,205,3,40.0,0.0
+AID2258,2,xgb_pairwise_cap1,41,50,50,140,205,3,40.0,0.0
+AID2258,2,score_cap1,40,50,50,140,205,3,40.0,0.0
+AID488997,2,chemdep_cal,38,50,50,189,326,3,38.661,0.4736066968522545
+AID488997,2,score_only_ranker,37,50,50,189,326,3,38.661,0.4736066968522545
+AID488997,2,xgb_pairwise_cap1,37,50,50,189,326,3,38.661,0.4736066968522545
+AID488997,2,score_cap1,39,50,50,189,326,3,38.661,0.4736066968522545

@@ -1,0 +1,7 @@
+task,method,mean,std
+GPCR,multifp_rf_replay,39.4,2.302172886644268
+GPCR,primary_teacher_rf,39.4,3.209361307176242
+GPCR_2,multifp_rf_replay,18.6,0.5477225575051664
+GPCR_2,primary_teacher_rf,18.8,1.095445115010332
+channel_atp,multifp_rf_replay,40.8,4.147288270665544
+channel_atp,primary_teacher_rf,40.0,3.5355339059327378
